@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm TechGenius-1066
 
-🚀 Aspiring Full Stack Developer | Future AI Architect | Student @ CUCET PCM  
+🚀 Aspiring Full Stack Developer | Future AI Architect | Student @ miet btech 
 🛠️ Learning by building. Grinding by coding. Living on logic.
 
 ---
